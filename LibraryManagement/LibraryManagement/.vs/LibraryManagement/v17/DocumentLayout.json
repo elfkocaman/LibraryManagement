@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE47E422-6338-46DE-9607-1B8CC2BA2730}|LibraryManagement.csproj|c:\\users\\pointix\\desktop\\librarymanagement\\librarymanagement\\booklibraryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE47E422-6338-46DE-9607-1B8CC2BA2730}|LibraryManagement.csproj|solutionrelative:booklibraryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE47E422-6338-46DE-9607-1B8CC2BA2730}|LibraryManagement.csproj|c:\\users\\pointix\\desktop\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE47E422-6338-46DE-9607-1B8CC2BA2730}|LibraryManagement.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE47E422-6338-46DE-9607-1B8CC2BA2730}|LibraryManagement.csproj|c:\\users\\pointix\\desktop\\librarymanagement\\librarymanagement\\data\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE47E422-6338-46DE-9607-1B8CC2BA2730}|LibraryManagement.csproj|solutionrelative:data\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE47E422-6338-46DE-9607-1B8CC2BA2730}|LibraryManagement.csproj|c:\\users\\pointix\\desktop\\librarymanagement\\librarymanagement\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE47E422-6338-46DE-9607-1B8CC2BA2730}|LibraryManagement.csproj|solutionrelative:data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE47E422-6338-46DE-9607-1B8CC2BA2730}|LibraryManagement.csproj|c:\\users\\pointix\\desktop\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE47E422-6338-46DE-9607-1B8CC2BA2730}|LibraryManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookLibraryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\BookLibraryForm.cs",
+              "RelativeDocumentMoniker": "BookLibraryForm.cs",
+              "ToolTip": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\BookLibraryForm.cs",
+              "RelativeToolTip": "BookLibraryForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:53:50.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:53:36.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\Data\\LibraryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryRepository.cs",
+              "ToolTip": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\Data\\LibraryRepository.cs",
+              "RelativeToolTip": "Data\\LibraryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:53:11.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:53:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pointix\\Desktop\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:52:59.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
